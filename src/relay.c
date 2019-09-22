@@ -1,4 +1,5 @@
 // relay.c 2019/09/22 Douglas Goodall (dwg)
+// derived form Gordon Henderson's version
 
 #include <stdio.h>
 #include <unistd.h>
